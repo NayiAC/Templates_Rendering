@@ -10,7 +10,7 @@ En este desafío validaremos nuestros conocimientos del data binding en Vue Js a
    ```
 2. **Navega al directorio del proyecto**
    ```bash
-   cd Binding_opcional
+   cd Templates_Rendering
    ```
 3. **Instala las dependecias**
    ```bash
